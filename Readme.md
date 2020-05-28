@@ -1,0 +1,1 @@
+Re-create the debezium image to support the configuration file that pulls the database connection information when the container is started
